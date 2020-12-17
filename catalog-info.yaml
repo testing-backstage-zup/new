@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: joaofilipecb
+  description: joaofilipecb
+  annotations: 
+    github.com/project-slug: testing-backstage-zup/new
+    backstage.io/github-actions-id: testing-backstage-zup/new
+spec:
+  type: service
+  lifecycle: experimental
+  owner: joaofilipecb
